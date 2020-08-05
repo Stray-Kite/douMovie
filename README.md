@@ -21,6 +21,6 @@ npx react-native run-android
 
 ### 3. 界面展示
 
- <img src="https://github.com/Stray-Kite/douMovie/blob/master/media/08.jpg" width="250"  /><img src="https://github.com/Stray-Kite/douMovie/blob/master/media/09.jpg" width="250"  />
+ <img src="https://github.com/Stray-Kite/douMovie/blob/master/media/08.jpg" width="250"  />   <img src="https://github.com/Stray-Kite/douMovie/blob/master/media/09.jpg" width="250"  />
 
-<img src="https://github.com/Stray-Kite/douMovie/blob/master/media/10.jpg" width="250"  /><img src="https://github.com/Stray-Kite/douMovie/blob/master/media/11.jpg" width="250"  />
+<img src="https://github.com/Stray-Kite/douMovie/blob/master/media/10.jpg" width="250"  />   <img src="https://github.com/Stray-Kite/douMovie/blob/master/media/11.jpg" width="250"  />
